@@ -13,13 +13,16 @@ react-native run-android
 
 pip3 install -r requirements.txt
 
+In cmd/terminal cd to backend folder:
+
  1) python
  2) from app import db
  3) db.create_all()
  4) exit()
- 5) ipconfig
- 6) get local adapter (NIC) Ethernet IP address (IPV4) E.g. 192.168.1.19
- 7) flask run -h <INSERT FOUND IP HERE> -p 3000
+ 5) pip3 install -r requirements.txt
+ 6) ipconfig
+ 7) get local adapter (NIC) Ethernet IP address (IPV4) E.g. 192.168.1.19
+ 8) flask run -h <INSERT FOUND IP HERE> -p 3000
 
 
 ------------------------------------------------------------------------------------
