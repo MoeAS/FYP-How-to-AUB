@@ -1,7 +1,7 @@
 # How-to-AUB
 
 
-![alt text](https://github.com/MoeAS/How-to-AUB/blob/frontend/poster-fyp.png?raw=true)
+![alt text](https://github.com/MoeAS/FYP-How-to-AUB/blob/master/poster-fyp.png?raw=true)
 
 
 
