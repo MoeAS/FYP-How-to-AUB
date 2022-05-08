@@ -23,6 +23,12 @@ In cmd/terminal cd to backend folder:
  6) ipconfig
  7) get local adapter (NIC) Ethernet IP address (IPV4) E.g. 192.168.1.19
  8) flask run -h <INSERT FOUND IP HERE> -p 3000
+ 
+ 
+ IMPORTANT NOTES:
+ 
+  1) change ip_of_db, username, password if any are different in your system
+  2) change IP_ADDRESS in frontend/app/config/config.json (same as the ip found in ipconfig)
 
 
 ------------------------------------------------------------------------------------
@@ -69,7 +75,7 @@ yourProject/android/app/build/outputs/apk/debug/app-debug.apk
 
 ------------------------------------------------------------------------------------
 
-# SQL Queries example data:
+# SQL Queries sample data:
 
 NOTE: TO SIGN IN PASSWORD IS (FOR ALL USERS BELOW): 123
 
