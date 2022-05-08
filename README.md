@@ -27,7 +27,7 @@ In cmd/terminal cd to backend folder:
  
  IMPORTANT NOTES:
  
-  1) change ip_of_db, username, password if any are different in your system
+  1) change ip_of_db, username, password (located in backend/app.py) if any are different in your system
   2) change IP_ADDRESS in frontend/app/config/config.json (same as the ip found in ipconfig)
 
 
