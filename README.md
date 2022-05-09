@@ -80,6 +80,6 @@ yourProject/android/app/build/outputs/apk/debug/app-debug.apk
 NOTE: TO SIGN IN PASSWORD IS (FOR ALL USERS BELOW): 123
 
 - Open SQL.txt
-- CTRL A -> CTRL C
+- Copy all
 - Open mysql workbench
 - Paste all the contents and run the query
