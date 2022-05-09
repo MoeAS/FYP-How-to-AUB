@@ -22,7 +22,7 @@ In cmd/terminal cd to backend folder:
  5) pip3 install -r requirements.txt
  6) ipconfig
  7) get local adapter (NIC) Ethernet IP address (IPV4) E.g. 192.168.1.14
- 8) flask run -h <INSERT FOUND IP HERE> -p 3000, example: flask run -h 192.168.1.14 -p 3000
+ 8) flask run -h &lt;INSERT FOUND IP HERE&gt; -p 3000, example: flask run -h 192.168.1.14 -p 3000
  
  
  IMPORTANT NOTES:
